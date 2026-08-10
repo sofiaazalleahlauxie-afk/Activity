@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Registration</title>
+
+</head>
+
+<body style="text-align:center">
+
+<h2>Registration form</h2>
+
+<form>
+
+<fieldset>
+
+<label for="name">Enter name</label><br>
+
+<input type="text" id="name" name="name"><br>
+
+<label for="email">Email:</label><br>
+
+<input type = "text" id="email"name "email"/> <br/>
+
+<label for="pass">Enter password: </label><br>
+
+<input type="password" ad ="email"name "pass"/> <br/>
+
+<label for="age">Enter your age</label><br>
+
+<input type = "age" id="age"number"age"/> <br/>
+
+<br><label>Enter your gender</label><br> <input type="radio"id="gender"
+
+name="gender" value="sale"/>Male <br> <input type="radio" id="gender" name="gender" value="female"/>female <br>
+
+<input type="radio" id="gender" name ="gender" value="prefer not to say"/>prefer not to say<br>
+
+<p><br><label>Subject</label><br>
+
+<select id="course" name="course">
+
+<option value="selected disbaled>--subject--</option>
+
+<option value="Math">Math</option>
+
+<option value="Science">Science</option>
+
+<option value="English">English</option>
+
+<option value="ICT">ICT</option>
+
+</select>
+
+<p><br><label>Hobbies</label><br>
+
+<input type="radio" id="hobbies" name "hobbies" value="Reading"/>Reading <br>
+
+<input type="radio" id="hobbies" name ="hobbies" value="Sports"/>Sports<br>
+
+<input type="radio" id="hobbies name "hobbies" value="music"/>music<br>
+
+<input type="radio" id="hobbies" name = "hobbies" value="gaming"/>gaming<br>
+
+<p><br>Enter your Adress:<br>
+
+<textarea></textarea>
+
+<p><label for="name" >Short introduction</label><br>
+
+<textarea></textarea><br>
+
+<input type="submit" value="sign-up">
+
+<input type="reset" value=reset button">
+
+</fieldset
+
+</form>
+</body>
+</html>
