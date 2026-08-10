@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+
+<title>Registration</title>
+
+</head>
+
+<body>
+
+<h2>Registration form</h2>
+
+<form>
+
+<label for="name">Enter name</label><br>
+
+<input type="text" id="name" name="name"><br>
+
+<label for="email">Email:</label><br>
+
+<input type = "text" id="email"name "email"/><br>
+
+<label for="pass">Enter password: </label><br>
+
+<input type="password" id="email"name "pass"/> <br/>
+
+<label for="age">Enter your age</label><br>
+
+<input type = "age" id="age"number"age"/> <br/>
+
+<br><label>Enter your gender</label><br>
+
+<input type="radio" id="gender" name="gender" value="male"/>Male <br>
+
+<input type="radio"id="gender" name="gender" value="female"/>female <br>
+
+<input type="radio"id="gender" name="gender" value="others"/>others <br>
+
+<p><label for="hobby">Hobby</label>
+<p><input type="radio"/>reading
+<input type="radio"/>sports
+<input type="radio"/>music
+<input type="radio"/>gaming
+
+<p><label for="course"> Favorite subject:</label>
+
+<select id="course" name="course">
+
+<option value=""selected disbaled>--menu--</option>
+
+<option value="math">math</option>
+
+<option value="Science">Science</option>
+
+<option value="English">english</option>
+
+<option value="ict">ict</option>
+
+</select>
+
+</form>
+
+</body>
+
+</html>
