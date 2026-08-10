@@ -1,0 +1,37 @@
+.inventory-table{
+
+width 320px;
+
+padding: 150px;
+
+border radius: 5px;
+
+border: center;
+
+margin: 60px auto;
+}
+
+th, td {
+
+border:1px solid #ddd;
+
+padding:12px;
+
+text-align: left;
+
+}
+
+th{
+
+
+Background-color:#007BFF;
+
+color: white;
+
+ }
+
+{
+
+Background-color: #e6f2ff;
+
+}
